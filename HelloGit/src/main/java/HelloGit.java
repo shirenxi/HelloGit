@@ -1,6 +1,6 @@
 public class HelloGit {
 
     public String sayHello(){
-        return "Lucy";
+        return "Lucy an lily";
     }
 }
