@@ -4,6 +4,6 @@ public class TestHelloGit {
 
     @Test
     public void sayHello(){
-        System.out.println("They are " + new HelloGit().sayHello() + " @_@");
+        System.out.println("Hello " + new HelloGit().sayHello());
     }
 }
